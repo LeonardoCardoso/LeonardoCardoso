@@ -4,6 +4,6 @@ I'm an iOS engineer currently working at [Blinkist](https://github.com/blinkit) 
 
 I also write at [leocardz.com](https://leocardz.com).
 
-Contact me via [E-mail](mailto:contact@leocardz.com) or [Twitter](https://twitter.com/leocardz), or you can use my [PGP public key](https://leocardz.com/contact/leonardo-cardoso-public-pgp.asc) for more privacy.
+Contact me via [E-mail](mailto:contact@leocardz.com) or [Twitter](https://twitter.com/leocardz). You can use my [PGP public key](https://leocardz.com/contact/leonardo-cardoso-public-pgp.asc) for more privacy.
 
 Living by the mantra _Building trust between Machines and Mankind_. 
