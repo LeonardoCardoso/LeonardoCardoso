@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo Cardoso.
 
-I'm an iOS engineer currently working at [Blinkist](https://github.com/blinkit) and have my personal projects released [here](https://apps.apple.com/ru/developer/leonardo-gomes-cardoso/id1508373695).
+I'm an iOS engineer currently working at [Blinkist](https://github.com/blinkit) and have my personal projects released [here](https://apps.apple.com/us/developer/leonardo-gomes-cardoso/id1508373695).
 
 I also write at [leocardz.com](https://leocardz.com).
 
